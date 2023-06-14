@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/first-react/static/css/main.babe410d.css",
+    "main.js": "/first-react/static/js/main.dda9091d.js",
+    "static/js/787.ad5b5d77.chunk.js": "/first-react/static/js/787.ad5b5d77.chunk.js",
+    "static/media/helvetica-neu.ttf": "/first-react/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/gif.gif": "/first-react/static/media/gif.fabb10a2ebfa2906ec6c.gif",
+    "static/media/LaBelleAurore.woff2": "/first-react/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/first-react/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/first-react/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/first-react/index.html",
+    "main.babe410d.css.map": "/first-react/static/css/main.babe410d.css.map",
+    "main.dda9091d.js.map": "/first-react/static/js/main.dda9091d.js.map",
+    "787.ad5b5d77.chunk.js.map": "/first-react/static/js/787.ad5b5d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babe410d.css",
+    "static/js/main.dda9091d.js"
+  ]
+}
