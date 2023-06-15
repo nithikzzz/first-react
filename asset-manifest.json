@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.babe410d.css",
+    "main.css": "/first-react/static/css/main.67bdecec.css",
     "main.js": "/first-react/static/js/main.25f2459b.js",
     "static/js/787.ad5b5d77.chunk.js": "/first-react/static/js/787.ad5b5d77.chunk.js",
     "static/media/helvetica-neu.ttf": "/first-react/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -9,12 +9,12 @@
     "static/media/logo-s.png": "/first-react/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/CoolveticaRg-Regular.woff2": "/first-react/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/first-react/index.html",
-    "main.babe410d.css.map": "/first-react/static/css/main.babe410d.css.map",
+    "main.67bdecec.css.map": "/first-react/static/css/main.67bdecec.css.map",
     "main.25f2459b.js.map": "/first-react/static/js/main.25f2459b.js.map",
     "787.ad5b5d77.chunk.js.map": "/first-react/static/js/787.ad5b5d77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.babe410d.css",
+    "static/css/main.67bdecec.css",
     "static/js/main.25f2459b.js"
   ]
 }
